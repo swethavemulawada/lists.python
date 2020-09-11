@@ -5,9 +5,17 @@ for num in list1:
 
 
 
+Output:[12,5,64]
+
 
 
 List1=[12,14,-95,3]
 For num in list1:
      If num>=0
        Print(num )
+
+
+
+Output:[12,14,3]
+
+
