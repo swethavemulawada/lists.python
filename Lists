@@ -1,0 +1,13 @@
+list1=[12,-7,5,64,-14]
+for num in list1:
+       if num>=0:
+        print(num )
+
+
+
+
+
+List1=[12,14,-95,3]
+For num in list1:
+     If num>=0
+       Print(num )
